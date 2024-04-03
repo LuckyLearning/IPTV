@@ -1,4 +1,7 @@
-fork自 [My-EPG](https://github.com/Meroser/My-EPG)
+fork自
+[My-EPG](https://github.com/Meroser/My-EPG)
+[zhumeng11/IPTV](https://github.com/zhumeng11/IPTV)
+
 <img align="right" width="350" height="270" src="https://cdn.jsdelivr.net/gh/LuckyLearning/IPTV@main/img/Meroser.png">
 
 # Meroser's IPTV📺
