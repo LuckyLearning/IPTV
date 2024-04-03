@@ -32,16 +32,16 @@
 
 |     📦 名称      |                         🔗直播源地址                          | 🔢频道数 |   🅿状态   | 🆕更新时间  |
 | :-------------: | :----------------------------------------------------------: | :-----: | :-------: | :--------: |
-| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u) |   239   | 🌕日常更新 | 2024.02.27 |
-|  🧢TVBOX专用源   | [🌐订阅链接-TVBOX专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt) |   239   | 🌕日常更新 | 2024.02.27 |
+| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/LuckyLearning/IPTV/main/IPTV.m3u) |   239   | 🌕日常更新 | 2024.02.27 |
+|  🧢TVBOX专用源   | [🌐订阅链接-TVBOX专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/LuckyLearning/IPTV/main/IPTV-tvbox.txt) |   239   | 🌕日常更新 | 2024.02.27 |
 
 <u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
 
 <u>如果不会操作请直接复制下面的小白链接↙</u>
 
-链接[IPv6]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u`[推荐✨]
+链接[IPv6]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/LuckyLearning/IPTV/main/IPTV.m3u`[推荐✨]
 
-链接[TVbox]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt`[需IPv6支持]
+链接[TVbox]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/LuckyLearning/IPTV/main/IPTV-tvbox.txt`[需IPv6支持]
 
 ## 🛠️EPG
 
