@@ -1,4 +1,4 @@
-<img align="right" width="350" height="270" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/Meroser.png">
+<img align="right" width="350" height="270" src="https://cdn.jsdelivr.net/gh/LuckyLearning/IPTV@main/img/Meroser.png">
 
 # Meroser's IPTV📺
 欢迎来到Meroser的直播源仓库🎉
@@ -19,12 +19,12 @@
 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
 
 <p>
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Meroser/IPTV">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/Meroser/IPTV">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/Meroser/IPTV">
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Meroser/IPTV">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Meroser/IPTV">
-<img alt="GitHub" src="https://img.shields.io/github/license/Meroser/IPTV">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/LuckyLearning/IPTV">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/LuckyLearning/IPTV">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/LuckyLearning/IPTV">
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/LuckyLearning/IPTV">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/LuckyLearning/IPTV">
+<img alt="GitHub" src="https://img.shields.io/github/license/LuckyLearning/IPTV">
 </p>
 
 ## 🏄‍♀️源地址
@@ -49,11 +49,11 @@
 
 ### 📆EPG文件地址[tvxml格式]：
 - **稳定版：** 稳定、定时更新、信息准确🎈
-  - CDN地址1：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml`[推荐✨]
-  - CDN地址2：`https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml`
+  - CDN地址1：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/LuckyLearning/IPTV/main/tvxml.xml`[推荐✨]
+  - CDN地址2：`https://gh.api.99988866.xyz/https://raw.githubusercontent.com/LuckyLearning/IPTV/main/tvxml.xml`
 - **详情版：** 内容详细、定时更新、尝鲜🎈
-  - CDN地址1：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz`[推荐✨]
-  - CDN地址2：`https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz`
+  - CDN地址1：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/LuckyLearning/EPG-test/main/tvxml-test.xml.gz`[推荐✨]
+  - CDN地址2：`https://gh.api.99988866.xyz/https://raw.githubusercontent.com/LuckyLearning/EPG-test/main/tvxml-test.xml.gz`
 
 <u>注：稳定版每天00:25左右自动更新，请根据自身网络情况选择以上可用地址访问。🎈详情版目前仅提供gz版，每日00:40左右自动更新。相对于稳定版预告内容更加详细，比如当前播放电视剧/电影的详情，包括：剧情简介、导演、编剧、主要演员等信息🎈欢迎测试反馈。。。</u>
 
@@ -65,7 +65,7 @@
 
 <u>注：本仓库只提供tvxml格式的EPG(即节目预告)，TVbox和DIYP使用的是EPG接口，不适用于本仓库的，对于TVbox和DIYP用户推荐使用以上两个EPG接口。</u>
 
-<img align="right" width="280" height="350" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/IPTV_Player.png">
+<img align="right" width="280" height="350" src="https://cdn.jsdelivr.net/gh/LuckyLearning/IPTV@main/img/IPTV_Player.png">
 
 ## 🎬IPTV播放器
 📺**Android TV：**[Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=zh&gl=US)[强烈推荐✨✨`app付费，但体验极好`]，[Televizo](https://files.televizo.net/televizo-default.apk)
@@ -82,9 +82,9 @@
 
 ## 🎦频道展示
 展示内容为在小米电视+TiviMate 2.8.0示意
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/img1.jpg"></p>
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/img2.jpg"></p>
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/img3.jpg"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/LuckyLearning/IPTV@main/img/img1.jpg"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/LuckyLearning/IPTV@main/img/img2.jpg"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/LuckyLearning/IPTV@main/img/img3.jpg"></p>
 
 ## 🆕更新
 - 2024.02.27 新增重温经典🎈🎈/新增上海/RT频道 PS：河南地方台测试有问题移除
@@ -93,7 +93,7 @@
 - 2024.01.30 新增NewTV系列15个频道、新增湖北地方台、新增武术世界、天元围棋等特色台
 - 2024.01.26 修复因上海移动而影响的频道，详情版EPG已正式投入使用
 
-<img align="right" width="300" height="300" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/doraemon.jpg">
+<img align="right" width="300" height="300" src="https://cdn.jsdelivr.net/gh/LuckyLearning/IPTV@main/img/doraemon.jpg">
 
 ## 💡致谢：
 - Logo来源：[https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)[`特别感谢`]
@@ -105,12 +105,6 @@
 - GitHub及互联网其他资源[`特别感谢`]
 
 <u>说明：本仓库部分内容引用或参考以上内容，在此表示感谢！！！🎈</u>
-
-## 🙋‍♂️赞赏及交流群：
-<p>
-<img width="200" height="200" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/QQqun.jpg">
-<img width="200" height="200" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/Appreciation.jpg">
-</p>
 
 
 
