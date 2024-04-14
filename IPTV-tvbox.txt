@@ -1,4 +1,4 @@
-总台高清
+总台高清,#genre#
 CCTV-1 综合,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
 CCTV-2 财经,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000372/index.m3u8?IAS
 CCTV-3 综艺,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -21,7 +21,7 @@ CCTV-16 4k,https://itv.lat/tv/live.php?&line=1&id=cctv164k
 CCTV-4K 超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
 
-其它
+其它,#genre#
 风云剧场,http://119.118.170.190:8888/rtp/232.0.0.45:1234
 风云音乐,http://119.118.170.190:8888/rtp/232.0.0.47:1234
 第一剧场,http://119.118.170.190:8888/rtp/232.0.0.29:1234
@@ -40,7 +40,7 @@ CETV-3 教育服务,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909
 CETV-4 职业教育,http://113.15.185.206:8181/tsfile/live/1025_1.m3u8
 足球频道,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 
-卫视高清
+卫视高清,#genre#
 湖南卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 浙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 东方卫视,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225672/index.m3u8
@@ -84,7 +84,7 @@ CETV-4 职业教育,http://113.15.185.206:8181/tsfile/live/1025_1.m3u8
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 海峡卫视,http://123.184.27.215/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/hxwshd4m/4000000/mnf.m3u8
 
-数字高清
+数字高清,#genre#
 CHC高清电影,http://[2409:8087:4c0a:22:1::21]:6610/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04&
 CHC家庭影院,http://[2409:8087:4c0a:22:1::22]:6610/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4&IA
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
@@ -121,7 +121,7 @@ CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 天元围棋,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u8
 弈坛春秋,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-国际时事
+国际时事,#genre#
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://113.64.145.91:8081/hls/36/index.m3u8
 凤凰香港,http://113.64.145.91:8081/hls/38/index.m3u8
@@ -154,7 +154,7 @@ CGTN Русский,http://118.254.201.65:8888/udp/239.76.246.86:1234
 CGTN Español,http://118.254.201.65:8888/udp/239.76.246.88:1234
 CGTN العربية,http://118.254.201.65:8888/udp/239.76.253.97:9000
 
-地方特色
+地方特色,#genre#
 茶频道,https://itv.lat/tv/live.php?&line=1&id=cpd
 快乐垂钓,https://itv.lat/tv/live.php?&line=1&id=klcd
 金鹰纪实,https://itv.lat/tv/live.php?&line=1&id=jyjs
@@ -310,7 +310,7 @@ iHot-爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/60000000060000
 苏州生活资讯,https://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
 靖江新闻综合,rtmp://visit.jjbctv.com:1935/live/xwzhpc
 
-港澳台
+港澳台,#genre#
 TVB翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
 TVB明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
 TVB无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
